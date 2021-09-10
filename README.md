@@ -1,5 +1,5 @@
 # deng_lu_chengyuan
-浙大城市学院网络自动登录脚本
+浙大城市学院网络定时自动登录脚本
 
 ## 使用步骤
 1. 先命令行安装 selenium、apscheduler
